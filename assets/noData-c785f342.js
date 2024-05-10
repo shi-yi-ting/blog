@@ -1,0 +1,1 @@
+import{_ as a,o as c,c as e}from"./index-dd7dc6e8.js";const t={name:"NoData"},o={class:"noData"};function _(s,n,r,p,d,i){return c(),e("div",o)}const f=a(t,[["render",_],["__scopeId","data-v-ac901c9c"]]);export{f as default};
